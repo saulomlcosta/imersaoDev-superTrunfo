@@ -1,2 +1,10 @@
-# imersaoDev-superTrunfo
-Projeto educacional realizado na imersão dev da Alura.
+# Conversor de Moedas feito na Imersão Dev da Alura.
+
+Um dos projetos educacionais realizados na imersão Dev da Alura.
+
+Ganhe da máquina com esse super trunfo!
+
+### [https://saulomlcosta.github.io/imersaoDev-superTrunfo/index.html](https://saulomlcosta.github.io/imersaoDev-superTrunfo/index.html)
+
+![supertrunfo9](https://user-images.githubusercontent.com/79532045/113738411-408b3f00-96d5-11eb-86b9-6e486a745c91.png)
+
