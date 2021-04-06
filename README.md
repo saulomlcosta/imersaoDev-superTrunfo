@@ -4,7 +4,7 @@ Um dos projetos educacionais realizados na imersão Dev da Alura.
 
 1- Sorteie sua carta.
 2- Escolha seu atributo.
-3- E duele!
+3- E seja o vencedor!
 
 Ganhe da máquina com esse super trunfo!
 
